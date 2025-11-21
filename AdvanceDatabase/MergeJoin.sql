@@ -13,7 +13,7 @@ insert into Department values(102,'CSE');
 insert into Department values(103,'ETC');
 insert into Department values(104,'mech');
 insert into Department values(105,'civil');
-
+use External;
 -- merge join
 select * from Student
 join Department 
