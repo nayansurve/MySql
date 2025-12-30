@@ -34,7 +34,4 @@ select @emp_name, @emp_salary, @emp_address;
  
 drop procedure MultipleOutParam;
 
-----
-
-
 
